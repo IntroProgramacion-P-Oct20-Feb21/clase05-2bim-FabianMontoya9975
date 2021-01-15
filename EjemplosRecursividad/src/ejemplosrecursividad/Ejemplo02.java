@@ -9,7 +9,7 @@ package ejemplosrecursividad;
 public class Ejemplo02 {
 
     public static void main(String[] args) {
-        imprimirNumeros(4);
+        imprimirNumeros(6);
     }
     
     public static void imprimirNumeros(int numero){

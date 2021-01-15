@@ -7,7 +7,7 @@ package ejemplosrecursividad;
 public class Ejemplo08 {
 
     public static void main(String[] args) {
-        int[] datos = {10, 2, 4, 1};
+        int[] datos = {100, 200, 1000};
         System.out.printf("%d\n", misterio(datos, datos.length));
     }
 

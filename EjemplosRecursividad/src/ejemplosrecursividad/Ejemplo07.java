@@ -8,7 +8,7 @@ public class Ejemplo07 {
 
     public static void main(String[] args) {
         
-        System.out.printf("%d\n", obtenerPotencia(5, 2));
+        System.out.printf("%d\n", obtenerPotencia(3, 3));
     }
 
     public static int obtenerPotencia(int base, int exponente) {
